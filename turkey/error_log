@@ -1,0 +1,383 @@
+[13-Feb-2023 06:23:33 America/New_York] PHP Warning:  Undefined array key "name" in /home/eartctvi/public_html/earthquake/turkey/index.php on line 4
+[13-Feb-2023 06:23:37 America/New_York] PHP Warning:  Undefined array key "name" in /home/eartctvi/public_html/earthquake/turkey/index.php on line 4
+[13-Feb-2023 06:23:38 America/New_York] PHP Warning:  Undefined array key "name" in /home/eartctvi/public_html/earthquake/turkey/index.php on line 4
+[13-Feb-2023 06:23:43 America/New_York] PHP Warning:  Undefined array key "name" in /home/eartctvi/public_html/earthquake/turkey/index.php on line 4
+[13-Feb-2023 06:23:44 America/New_York] PHP Warning:  Undefined array key "name" in /home/eartctvi/public_html/earthquake/turkey/index.php on line 4
+[13-Feb-2023 06:25:44 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "nully" in /home/eartctvi/public_html/earthquake/turkey/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eartctvi/public_html/earthquake/turkey/index.php on line 6
+[13-Feb-2023 06:33:31 America/New_York] PHP Warning:  Undefined array key "q" in /home/eartctvi/public_html/earthquake/turkey/index.php on line 6
+[13-Feb-2023 06:33:36 America/New_York] PHP Warning:  Undefined array key "q" in /home/eartctvi/public_html/earthquake/turkey/index.php on line 6
+[13-Feb-2023 06:49:31 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 06:50:10 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 06:51:00 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 06:51:04 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 06:51:06 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 06:51:10 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 06:51:35 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 06:51:50 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 06:52:06 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 06:52:18 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 06:52:19 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 06:52:22 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 06:52:38 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 06:52:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function toString() in /home/eartctvi/public_html/earthquake/turkey/function.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eartctvi/public_html/earthquake/turkey/function.php on line 5
+[13-Feb-2023 06:53:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function toString() in /home/eartctvi/public_html/earthquake/turkey/function.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eartctvi/public_html/earthquake/turkey/function.php on line 5
+[13-Feb-2023 06:53:34 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 06:55:43 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 06:55:46 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 06:59:49 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:00:16 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:00:18 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:03 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:15 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:15 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:15 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:15 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:16 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:16 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:16 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:16 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:16 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:17 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:17 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:17 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:17 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:18 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:18 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:18 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:18 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:19 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:19 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:19 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:19 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:20 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:20 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:20 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:20 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:21 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:22 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:22 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:22 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:22 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:23 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:23 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:23 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:23 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:24 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:24 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:24 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:24 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:24 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:25 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:25 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:25 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:25 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:25 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:26 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:26 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:26 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:26 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:27 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:27 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:27 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:27 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:27 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:28 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:28 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:28 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:35 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:37 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:37 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:37 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:38 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:38 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:38 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:38 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:38 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:39 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:39 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:39 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:39 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:40 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:40 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:40 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:40 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:40 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:41 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:41 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:42 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:42 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:43 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:43 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:43 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:43 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:44 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:44 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:44 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:44 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:44 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:45 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:45 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:45 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:45 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:46 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:46 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:46 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:46 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:01:46 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:02:06 America/New_York] PHP Warning:  Undefined array key "fromCountry" in /home/eartctvi/public_html/earthquake/turkey/function.php on line 4
+[13-Feb-2023 07:41:08 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:41:08 America/New_York] PHP Warning:  Array to string conversion in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:41:08 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:41:09 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:41:09 America/New_York] PHP Warning:  Array to string conversion in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:41:09 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:41:14 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:41:14 America/New_York] PHP Warning:  Array to string conversion in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:41:14 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:43:03 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:43:03 America/New_York] PHP Warning:  Array to string conversion in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:43:03 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:43:03 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:03 America/New_York] PHP Warning:  Undefined array key "" in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:03 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:03 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:06 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:43:06 America/New_York] PHP Warning:  Array to string conversion in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:43:06 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:43:06 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:06 America/New_York] PHP Warning:  Undefined array key "" in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:06 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:06 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:09 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:43:09 America/New_York] PHP Warning:  Array to string conversion in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:43:09 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:43:09 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:09 America/New_York] PHP Warning:  Undefined array key "" in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:09 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:09 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:10 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:43:10 America/New_York] PHP Warning:  Array to string conversion in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:43:10 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:43:10 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:10 America/New_York] PHP Warning:  Undefined array key "" in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:10 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:10 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:12 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:43:12 America/New_York] PHP Warning:  Array to string conversion in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:43:12 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:43:12 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:12 America/New_York] PHP Warning:  Undefined array key "" in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:12 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:12 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:13 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:43:13 America/New_York] PHP Warning:  Array to string conversion in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:43:13 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:43:13 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:13 America/New_York] PHP Warning:  Undefined array key "" in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:13 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:43:13 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:44:07 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:44:07 America/New_York] PHP Warning:  Array to string conversion in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:44:07 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:44:07 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:44:07 America/New_York] PHP Warning:  Undefined array key "" in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:44:07 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:44:07 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:44:08 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:44:08 America/New_York] PHP Warning:  Array to string conversion in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:44:08 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:44:08 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:44:08 America/New_York] PHP Warning:  Undefined array key "" in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:44:08 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:44:08 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:44:28 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:44:28 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:44:28 America/New_York] PHP Warning:  Array to string conversion in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:44:28 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:44:28 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:44:28 America/New_York] PHP Warning:  Undefined array key "" in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:44:28 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:44:28 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:44:30 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:44:30 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:44:30 America/New_York] PHP Warning:  Array to string conversion in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:44:30 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:44:30 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:44:30 America/New_York] PHP Warning:  Undefined array key "" in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:44:30 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:44:30 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:44:31 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:44:31 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:44:31 America/New_York] PHP Warning:  Array to string conversion in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:44:31 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 282
+[13-Feb-2023 07:44:31 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:44:31 America/New_York] PHP Warning:  Undefined array key "" in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:44:31 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:44:31 America/New_York] PHP Warning:  Undefined variable $i in /home/eartctvi/public_html/earthquake/turkey/action.php on line 283
+[13-Feb-2023 07:47:38 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "i" in /home/eartctvi/public_html/earthquake/turkey/action.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/eartctvi/public_html/earthquake/turkey/action.php on line 286
+[13-Feb-2023 07:47:39 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "i" in /home/eartctvi/public_html/earthquake/turkey/action.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/eartctvi/public_html/earthquake/turkey/action.php on line 286
+[13-Feb-2023 07:47:42 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "i" in /home/eartctvi/public_html/earthquake/turkey/action.php:286
+Stack trace:
+#0 {main}
+  thrown in /home/eartctvi/public_html/earthquake/turkey/action.php on line 286
+[13-Feb-2023 07:48:04 America/New_York] PHP Warning:  Undefined array key 3 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 280
+[13-Feb-2023 07:48:04 America/New_York] PHP Warning:  Undefined array key 3 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 280
+[13-Feb-2023 07:48:04 America/New_York] PHP Warning:  Undefined array key 4 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 280
+[13-Feb-2023 08:30:54 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home/eartctvi/public_html/earthquake/turkey/action.php on line 286
+[13-Feb-2023 08:30:55 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home/eartctvi/public_html/earthquake/turkey/action.php on line 286
+[13-Feb-2023 08:30:57 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home/eartctvi/public_html/earthquake/turkey/action.php on line 286
+[13-Feb-2023 08:43:19 America/New_York] PHP Warning:  Undefined array key 0 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:43:19 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:43:19 America/New_York] PHP Warning:  Undefined array key 2 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:43:28 America/New_York] PHP Warning:  Undefined array key 0 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:43:28 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:43:28 America/New_York] PHP Warning:  Undefined array key 2 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:43:31 America/New_York] PHP Warning:  Undefined array key 0 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:43:31 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:43:31 America/New_York] PHP Warning:  Undefined array key 2 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:43:35 America/New_York] PHP Warning:  Undefined array key 0 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:43:35 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:43:35 America/New_York] PHP Warning:  Undefined array key 2 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:45:09 America/New_York] PHP Warning:  Undefined array key 0 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:45:09 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:45:09 America/New_York] PHP Warning:  Undefined array key 2 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:45:22 America/New_York] PHP Warning:  Undefined array key 0 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:45:22 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:45:22 America/New_York] PHP Warning:  Undefined array key 2 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:45:29 America/New_York] PHP Warning:  Undefined array key 0 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:45:29 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:45:29 America/New_York] PHP Warning:  Undefined array key 2 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:50:17 America/New_York] PHP Warning:  Undefined array key 0 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:50:17 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:50:17 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:50:17 America/New_York] PHP Warning:  Undefined array key 2 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:51:09 America/New_York] PHP Warning:  Undefined array key 0 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:51:09 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:51:09 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:51:09 America/New_York] PHP Warning:  Undefined array key 2 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:51:47 America/New_York] PHP Warning:  Undefined array key 0 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:51:47 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:51:47 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:51:47 America/New_York] PHP Warning:  Undefined array key 2 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:52:12 America/New_York] PHP Warning:  Undefined array key 0 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:52:12 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:52:12 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:52:12 America/New_York] PHP Warning:  Undefined array key 2 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:56:00 America/New_York] PHP Warning:  Undefined array key 0 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:56:00 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:56:00 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 08:56:00 America/New_York] PHP Warning:  Undefined array key 2 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 09:25:23 America/New_York] PHP Warning:  Undefined array key 0 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 09:25:23 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 09:25:23 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 09:25:23 America/New_York] PHP Warning:  Undefined array key 2 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 09:26:35 America/New_York] PHP Warning:  Undefined array key 0 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 09:26:35 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 09:26:35 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 09:26:35 America/New_York] PHP Warning:  Undefined array key 2 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 12:35:50 America/New_York] PHP Warning:  Undefined array key 0 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 12:35:50 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 12:35:50 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 12:35:50 America/New_York] PHP Warning:  Undefined array key 2 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 12:36:00 America/New_York] PHP Warning:  Undefined array key 0 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 12:36:00 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 12:36:00 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 12:36:00 America/New_York] PHP Warning:  Undefined array key 2 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 17:02:12 America/New_York] PHP Warning:  Undefined array key 0 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 17:02:12 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 17:02:12 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[13-Feb-2023 17:02:12 America/New_York] PHP Warning:  Undefined array key 2 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[15-Feb-2023 03:47:04 America/New_York] PHP Warning:  Undefined array key 0 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[15-Feb-2023 03:47:04 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[15-Feb-2023 03:47:04 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[15-Feb-2023 03:47:04 America/New_York] PHP Warning:  Undefined array key 2 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[15-Feb-2023 05:03:54 America/New_York] PHP Warning:  Undefined array key 0 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[15-Feb-2023 05:03:54 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[15-Feb-2023 05:03:54 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[15-Feb-2023 05:03:54 America/New_York] PHP Warning:  Undefined array key 2 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[15-Feb-2023 05:03:57 America/New_York] PHP Warning:  Undefined array key 0 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[15-Feb-2023 05:03:57 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[15-Feb-2023 05:03:57 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[15-Feb-2023 05:03:57 America/New_York] PHP Warning:  Undefined array key 2 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[15-Feb-2023 07:46:09 America/New_York] PHP Warning:  Undefined array key 0 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[15-Feb-2023 07:46:09 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[15-Feb-2023 07:46:09 America/New_York] PHP Warning:  Undefined array key 1 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[15-Feb-2023 07:46:09 America/New_York] PHP Warning:  Undefined array key 2 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 314
+[15-Feb-2023 07:58:26 America/New_York] PHP Warning:  Array to string conversion in /home/eartctvi/public_html/earthquake/turkey/action.php on line 313
+[15-Feb-2023 08:00:21 America/New_York] PHP Warning:  Undefined variable $arrayOfOrg in /home/eartctvi/public_html/earthquake/turkey/action.php on line 325
+[15-Feb-2023 08:00:23 America/New_York] PHP Warning:  Undefined variable $arrayOfOrg in /home/eartctvi/public_html/earthquake/turkey/action.php on line 325
+[15-Feb-2023 08:00:26 America/New_York] PHP Warning:  Undefined variable $arrayOfOrg in /home/eartctvi/public_html/earthquake/turkey/action.php on line 325
+[15-Feb-2023 08:00:28 America/New_York] PHP Warning:  Undefined variable $arrayOfOrg in /home/eartctvi/public_html/earthquake/turkey/action.php on line 325
+[15-Feb-2023 08:00:31 America/New_York] PHP Warning:  Undefined variable $arrayOfOrg in /home/eartctvi/public_html/earthquake/turkey/action.php on line 325
+[15-Feb-2023 08:03:39 America/New_York] PHP Warning:  Undefined variable $arrayOfOrg in /home/eartctvi/public_html/earthquake/turkey/action.php on line 326
+[15-Feb-2023 08:04:16 America/New_York] PHP Warning:  Undefined array key 12 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 316
+[15-Feb-2023 08:04:16 America/New_York] PHP Warning:  Undefined array key 12 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 316
+[15-Feb-2023 08:04:16 America/New_York] PHP Warning:  Undefined array key 12 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 316
+[15-Feb-2023 08:04:16 America/New_York] PHP Warning:  Undefined array key 13 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 316
+[15-Feb-2023 08:06:15 America/New_York] PHP Warning:  Undefined variable $arrayOfOrg in /home/eartctvi/public_html/earthquake/turkey/action.php on line 328
+[15-Feb-2023 08:06:20 America/New_York] PHP Warning:  Undefined array key 12 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 318
+[15-Feb-2023 08:06:20 America/New_York] PHP Warning:  Undefined array key 12 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 318
+[15-Feb-2023 08:06:20 America/New_York] PHP Warning:  Undefined array key 12 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 318
+[15-Feb-2023 08:06:20 America/New_York] PHP Warning:  Undefined array key 13 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 318
+[15-Feb-2023 08:08:08 America/New_York] PHP Warning:  Undefined variable $arrayOfOrg in /home/eartctvi/public_html/earthquake/turkey/action.php on line 328
+[15-Feb-2023 08:08:14 America/New_York] PHP Warning:  Undefined array key 12 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 318
+[15-Feb-2023 08:08:14 America/New_York] PHP Warning:  Undefined array key 12 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 318
+[15-Feb-2023 08:08:14 America/New_York] PHP Warning:  Undefined array key 12 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 318
+[15-Feb-2023 08:08:14 America/New_York] PHP Warning:  Undefined array key 13 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 318
+[15-Feb-2023 08:08:14 America/New_York] PHP Warning:  Undefined array key 12 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 318
+[15-Feb-2023 08:08:14 America/New_York] PHP Warning:  Undefined array key 13 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 318
+[15-Feb-2023 08:08:14 America/New_York] PHP Warning:  Undefined array key 13 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 318
+[15-Feb-2023 08:08:14 America/New_York] PHP Warning:  Undefined array key 14 in /home/eartctvi/public_html/earthquake/turkey/action.php on line 318
+[15-Feb-2023 08:12:37 America/New_York] PHP Warning:  Undefined variable $arrayOfOrg in /home/eartctvi/public_html/earthquake/turkey/action.php on line 330
+[15-Feb-2023 08:41:01 America/New_York] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home/eartctvi/public_html/earthquake/turkey/action.php:328
+Stack trace:
+#0 /home/eartctvi/public_html/earthquake/turkey/action.php(328): array_push()
+#1 {main}
+  thrown in /home/eartctvi/public_html/earthquake/turkey/action.php on line 328
+[15-Feb-2023 08:41:09 America/New_York] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home/eartctvi/public_html/earthquake/turkey/action.php:328
+Stack trace:
+#0 /home/eartctvi/public_html/earthquake/turkey/action.php(328): array_push()
+#1 {main}
+  thrown in /home/eartctvi/public_html/earthquake/turkey/action.php on line 328
+[15-Feb-2023 08:41:23 America/New_York] PHP Warning:  Undefined variable $arrayOfOrg in /home/eartctvi/public_html/earthquake/turkey/action.php on line 362
+[15-Feb-2023 08:42:13 America/New_York] PHP Warning:  Undefined variable $arrayOfOrg in /home/eartctvi/public_html/earthquake/turkey/action.php on line 362
+[15-Feb-2023 08:42:21 America/New_York] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home/eartctvi/public_html/earthquake/turkey/action.php:328
+Stack trace:
+#0 /home/eartctvi/public_html/earthquake/turkey/action.php(328): array_push()
+#1 {main}
+  thrown in /home/eartctvi/public_html/earthquake/turkey/action.php on line 328
+[15-Feb-2023 08:42:27 America/New_York] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home/eartctvi/public_html/earthquake/turkey/action.php:328
+Stack trace:
+#0 /home/eartctvi/public_html/earthquake/turkey/action.php(328): array_push()
+#1 {main}
+  thrown in /home/eartctvi/public_html/earthquake/turkey/action.php on line 328
+[15-Feb-2023 08:47:02 America/New_York] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home/eartctvi/public_html/earthquake/turkey/action.php:328
+Stack trace:
+#0 /home/eartctvi/public_html/earthquake/turkey/action.php(328): array_push()
+#1 {main}
+  thrown in /home/eartctvi/public_html/earthquake/turkey/action.php on line 328
+[15-Feb-2023 14:50:04 America/New_York] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home/eartctvi/public_html/earthquake/turkey/action.php:328
+Stack trace:
+#0 /home/eartctvi/public_html/earthquake/turkey/action.php(328): array_push()
+#1 {main}
+  thrown in /home/eartctvi/public_html/earthquake/turkey/action.php on line 328
+[16-Feb-2023 03:25:39 America/New_York] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home/eartctvi/public_html/earthquake/turkey/action.php:328
+Stack trace:
+#0 /home/eartctvi/public_html/earthquake/turkey/action.php(328): array_push()
+#1 {main}
+  thrown in /home/eartctvi/public_html/earthquake/turkey/action.php on line 328
